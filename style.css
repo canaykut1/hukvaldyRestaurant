@@ -1015,3 +1015,7 @@ label {
 		display: none;
 	}
 }
+
+.social-media{
+	cursor: pointer;
+}
